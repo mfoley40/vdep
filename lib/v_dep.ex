@@ -3,7 +3,7 @@ defmodule VDep do
   Stupid module I'm using to test versioning.
   """
 
-  @version "2"
+  @version "3"
 
   @doc """
   Simple method returning a version string.

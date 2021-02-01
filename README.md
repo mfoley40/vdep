@@ -10,7 +10,7 @@ dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:vdep, git: "https://github.com/mfoley40/vdep.git", tag: "2.0.0"}
+    {:vdep, git: "https://github.com/mfoley40/vdep.git", tag: "3.0.0"}
   ]
 end
 ```
