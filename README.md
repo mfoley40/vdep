@@ -4,13 +4,13 @@
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `vdep` to your list of dependencies in `mix.exs`:
+The package can be installed by adding `vdep` to your list of
+dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:vdep, git: "hhttps://github.com/mfoley40/vdep.git", tag: "1.0.0"}
+    {:vdep, git: "https://github.com/mfoley40/vdep.git", tag: "1.0.0"}
   ]
 end
 ```
